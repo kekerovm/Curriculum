@@ -1,0 +1,17 @@
+{
+  "name": "ocurr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "",
+  "scripts": {
+    "client": "cd client && npm start",
+    "server": "cd server && npm start",
+    "start": "concurrently \"npm run client\" \"npm run server\""
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "concurrently": "^5.1.0"
+  }
+}
