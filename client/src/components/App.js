@@ -1,8 +1,16 @@
 import React, { Suspense } from "react"
 import { Provider } from "react-redux"
 import store from "../redux/store"
-import { BrowserRouter as Router, Route } from "react-router-dom"
+import { BrowserRouter as Router, Route, Link } from "react-router-dom"
 import "../styles/base.scss"
+
+import SectionOne from "./SectionOne"
+import SectionTwo from "./SectionTwo"
+import SectionThree from "./SectionThree"
+import SectionFour from "./SectionFour"
+import SectionFive from "./SectionFive"
+import SectionSix from "./SectionSix"
+import SectionSeven from "./SectionSeven"
 
 const Dashboard = React.lazy(() => import("./Dashboard"))
 
@@ -14,6 +22,40 @@ function App() {
           <Suspense fallback={<p>loading...</p>}>
             <Route path="/" component={Dashboard} />
           </Suspense>
+          <div>
+            <ul>
+              <li>
+                <Link to="/">Section One</Link>
+              </li>
+              <li>
+                <Link to="/">Section Two</Link>
+              </li>
+              <li>
+                <Link to="/">Section Three</Link>
+              </li>
+              <li>
+                <Link to="/">Section Four</Link>
+              </li>
+              <li>
+                <Link to="/">Section Five</Link>
+              </li>
+              <li>
+                <Link to="/">Section Six</Link>
+              </li>
+              <li>
+                <Link to="/">Section Six</Link>
+              </li>
+            </ul>
+            <li>
+              <Route exact path="/" component={SectionOne} />
+            </li>
+            <Route path="/section two" component={SectionTwo} />
+            <Route path="/section three" component={SectionThree} />
+            <Route path="/section four" component={SectionFour} />
+            <Route path="/section five" component={SectionFive} />
+            <Route path="/section six" component={SectionSix} />
+            <Route path="/section seven" component={SectionSeven} />
+          </div>
         </div>
       </Router>
     </Provider>

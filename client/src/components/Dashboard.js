@@ -6,9 +6,10 @@ export default (props) => {
     <div className="dashboard">
       <aside className="sidebar">
         <nav>
-          <a href="#">bla</a>
+          <a href="#">curriculum</a>
         </nav>
       </aside>
+      <div>SectionOne</div>
       <main className="main">
         <nav className="topnav"></nav>
         <div className="pdf">
