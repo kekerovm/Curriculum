@@ -1,0 +1,187 @@
+{
+  "users": [],
+  "currs": [
+    {
+      "id": 1,
+      "name": "2019/2020 ACADEMIC YEAR CURRICULUMS"
+    }
+  ],
+  "sections": [
+    {
+      "id": 1,
+      "name": "Economics",
+      "currId": 1
+    },
+    {
+      "id": 2,
+      "name": "Mathematics",
+      "currId": 1
+    },
+    {
+      "id": 3,
+      "name": "Physics",
+      "currId": 1
+    },
+    {
+      "id": 4,
+      "name": "Chemistry",
+      "currId": 1
+    },
+    {
+      "id": 5,
+      "name": "Business Studies",
+      "currId": 1
+    },
+    {
+      "id": 6,
+      "name": "Mathematics",
+      "currId": 1
+    }
+  ],
+  "components": [
+    {
+      "id": 1,
+      "sectionId": 1,
+      "title": "Basic Economic Ideas and Resource Allocation",
+      "content": [
+        "The fundamental problem in economics is that resources are scarse and wants are unlimited, so there is always a choice required between competing uses for the resources."
+      ]
+    },
+    {
+      "id": 2,
+      "sectionId": 1,
+      "title": "The margin and change",
+      "content": [
+        "Decision-making by individuals, firms, and governments is based on choices at the margin; that is, once behaviour has been optimised, any change will be detrimental as long as conditions remain the same."
+      ]
+    },
+    {
+      "id": 3,
+      "sectionId": 1,
+      "title": "Equilibrium and efficiency",
+      "content": [
+        "Prices are set by markets, are always moving in and out of equilibrium, and can be both efficient and inefficient in different ways and over different time periods."
+      ]
+    },
+    {
+      "id": 4,
+      "sectionId": 1,
+      "title": "Regulation and equity",
+      "content": [
+        "There is a trade-off between, on the one hand, freedom for firms and individuals in unregulated markets, and on the other hand, greater social equality and equity through the government regulation of individuals and markets"
+      ]
+    },
+    {
+      "id": 5,
+      "sectionId": 1,
+      "title": "Progress and Development",
+      "content": [
+        "Economics studies how societies can progress in measurable money terms and develop in a wider more normative sense"
+      ]
+    },
+    {
+      "id": 1,
+      "sectionId": 2,
+      "title": "Quadratics",
+      "content": [""]
+    },
+    {
+      "id": 2,
+      "sectionId": 2,
+      "title": "Functions",
+      "content": [""]
+    },
+    {
+      "id": 3,
+      "sectionId": 2,
+      "title": "Coordinate geometry",
+      "content": [""]
+    },
+    {
+      "id": 4,
+      "sectionId": 2,
+      "title": "Circular measure",
+      "content": [""]
+    },
+    {
+      "id": 5,
+      "sectionId": 2,
+      "title": "Trigonometry",
+      "content": [""]
+    },
+    {
+      "id": 6,
+      "sectionId": 2,
+      "title": "Series",
+      "content": [""]
+    },
+    {
+      "id": 7,
+      "sectionId": 2,
+      "title": "Differentiation",
+      "content": [""]
+    },
+    {
+      "id": 8,
+      "sectionId": 2,
+      "title": "Integration",
+      "content": [""]
+    },
+    {
+      "id": 1,
+      "sectionId": 3,
+      "title": "Physical quantities and units",
+      "content": [
+        "The measurement and recording of quantities is central to the whole of physics. The skills of estimating a physical quantity and having a feeling for which quantities are reasonable and which are unreasonable are very useful for any physicist. The topic introduces the SI system of units, which provides a unversal framework of measurement that is common to all scientists internationally. Candidates should be aware of the nature of physical measurement, in terms of a magnitude and a unit. They should have experience of making and recording measurements in the laboratory."
+      ]
+    },
+    {
+      "id": 2,
+      "sectionId": 3,
+      "title": "Measurement techniques",
+      "content": [
+        "Measurement is essential to the study of physics. Physicists need to be familiar with a wide range of instruments. Measurements themselves may be misleading and result in inappropriate conclusions as a result of errors and uncertainties in measured and derived path of physical quantities."
+      ]
+    },
+    {
+      "id": 3,
+      "sectionId": 3,
+      "title": "Kinematics",
+      "content": [
+        "Kinematics is the study of motion. Movement is part of everyday experience, so it is important to be able to analyse and predict the way in which objects move. The behaviour of moving objects is studied both graphically and through equations of motion."
+      ]
+    },
+    {
+      "id": 4,
+      "sectionId": 3,
+      "title": "Dynamics",
+      "content": [
+        "The motion on any object is governed by forces that act on the object. The topic introduces Newton's law of motion, which are fundamental to understanding the connection between forces and motion. The concept of momentum and the use of momentum conservation to analyse interaction are also studied. "
+      ]
+    },
+    {
+      "id": 5,
+      "sectionId": 3,
+      "title": "Forces, density, and pressure",
+      "content": [
+        "In this topic, the natures of some different types of force are studied, including how foreces give rise to translational and rotational equilibrium. The concept of pressure is introduced. This acts as a starting point for later work in pressure on gases."
+      ]
+    },
+    {
+      "id": 6,
+      "sectionId": 3,
+      "title": "Work, energy, and power",
+      "content": [
+        "The topic introduces different forms of energy, in both qualitative and quantitative terms. The concept of energy and its conservation provide useful accounting tools that help understand the behaviour of physical systems. The concepts of power and efficiency are also studied."
+      ]
+    },
+    {
+      "id": 7,
+      "sectionId": 3,
+      "title": "Motion in a circle",
+      "content": [
+        "The turning effect of forces is introduced in Topic 5. In this topic, rotational motion, confined to motion in a circle is studies. Radian measure is introduced and equations for circular motion are developed, in terms of both angular and linear speeds. "
+      ]
+    }
+  ]
+}
