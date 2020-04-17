@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react"
-import "../styles/dashboard.scss"
+import "../styles/curriculum.scss"
 import { Route, Link } from "react-router-dom"
 import Section from "./Section"
 import axios from "axios"
@@ -26,14 +26,18 @@ export default (props) => {
       <aside className="sidebar">
         {sections.map((section) => (
           <div key={"section" + section.id}>
-            <Link to={"/section/" + section.id}>{section.name}</Link>
+            <Link
+              to={`/curriculum/${props.match.params.id}/section/${section.id}`}
+            >
+              {section.name}
+            </Link>
           </div>
         ))}
       </aside>
       <main className="main">
         <nav className="topnav">{currName}</nav>
         <div className="pdf">
-          <Route path="/section/:id" component={Section} />
+          <Route path={`/curriculum/1/section/:id`} component={Section} />
         </div>
       </main>
     </div>

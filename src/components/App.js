@@ -1,18 +1,19 @@
 import React from "react"
 //import { Provider } from "react-redux"
 //import store from "../redux/store"
-import { BrowserRouter as Router } from "react-router-dom"
+import { BrowserRouter as Router, Route } from "react-router-dom"
 import "../styles/base.scss"
-import Dashboard from "./Curriculum"
+import Curriculum from "./Curriculum"
+import Home from "./Home"
 
-function App() {
+export default (props) => {
   return (
     <Router>
       <div className="wrapper">
-        <Dashboard match={{ params: { id: 1 } }} />
+        <Route exact path="/" component={Home}></Route>
+        {/* <Curriculum match={{ params: { id: 1 } }} /> */}
+        <Route path="/curriculum/:id" component={Curriculum} />
       </div>
     </Router>
   )
 }
-
-export default App

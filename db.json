@@ -34,7 +34,7 @@
     },
     {
       "id": 6,
-      "name": "Mathematics",
+      "name": "Sociology",
       "currId": 1
     }
   ],
@@ -181,6 +181,140 @@
       "title": "Motion in a circle",
       "content": [
         "The turning effect of forces is introduced in Topic 5. In this topic, rotational motion, confined to motion in a circle is studies. Radian measure is introduced and equations for circular motion are developed, in terms of both angular and linear speeds. "
+      ]
+    },
+    {
+      "id": 1,
+      "sectionId": 4,
+      "title": "Atoms, molecules, and stoichoimetry",
+      "content": [
+        "The topic illiustrates how quantitative relationships can be established when different substances react. (The term relative formula mass or M will be used for all compounds, including ionic compounds)"
+      ]
+    },
+    {
+      "id": 2,
+      "sectionId": 4,
+      "title": "Atomic structure",
+      "content": [
+        "The topic describes the type, number and distribution of the fundamental particles which make up an atom, and the impact of this on some atomic properties."
+      ]
+    },
+    {
+      "id": 3,
+      "sectionId": 4,
+      "title": "Chemical bonding",
+      "content": [
+        "The topic introduces the different ways by which chemical bonding and the effect this can have on physical properties."
+      ]
+    },
+    {
+      "id": 4,
+      "sectionId": 4,
+      "title": "States of matter",
+      "content": [
+        "The study of the particles in solids, liquids and gases and the interaction between them is important in understanding the physical properties of substances."
+      ]
+    },
+    {
+      "id": 5,
+      "sectionId": 4,
+      "title": "Chemical energetics",
+      "content": [
+        "Enthalpy changes and enthropy changes accompany chemical reactions. This topic demonstrates why some reactions are spontaneous and some are not."
+      ]
+    },
+    {
+      "id": 1,
+      "sectionId": 5,
+      "title": "Business and its environment",
+      "content": [
+        "This topic area is concerned with understanding the nature and purpose of business activity and identifying the structure, functions, cultures, and objectives of different business organizations. Central to an understanding of buisness and its internal and external environments is a recognition that the world in whihc businesses operate is in a constant state of change. The impact of political, economic, social, technological, legal, environment and ethical factors and how these might influence business activity is considered. The extent to which businesses can respond and adapt to such change is likely to determine their success."
+      ]
+    },
+    {
+      "id": 2,
+      "sectionId": 5,
+      "title": "People in organizations",
+      "content": [
+        "This topic area focuses on how businesses can develop and use policies, procedures, strutures, systems and approches to mangement and leadership that will harness the human potential whitin an organizatino and acheive organization goals. An understanding of the central role of effective management and leaderhsip in achieving efficiency and comptetitveness is required. Candidates will need to understand the distinct bodies of theory that underpin the concepts of business management and leadership. The importance of motivation techniques and theories in understanding employee needs to be considered. The contribution to business success made by human resource management through effective workforce planning and the recruitment, selection and training of workeers will also be explored."
+      ]
+    },
+    {
+      "id": 3,
+      "sectionId": 5,
+      "title": "Marketing",
+      "content": [
+        "The topic area develops an understanding of the importance of the marketing function for business competitiveness. The significance of marketing orientation - the process of aligning a business to its operating environment, customers, other stakeholders and markets - is emphasized. An understanding of the principles and practices of marketing and their application to commercial and not-for-profit organizaitons is considered. The relationship between marketing and other buisness functions such as operations management, finance and human resource management is also considered. The application of marketing concepts and methods to assist marketing and buisness decisions is expolored. Central to the understanding of marketing is the objective of satisfying the needs and wants of customers through effective market research, applying and appropriate marketing mix and establishing an organization with a strong customer focus."
+      ]
+    },
+    {
+      "id": 4,
+      "sectionId": 5,
+      "title": "",
+      "content": [""]
+    },
+    {
+      "id": 5,
+      "sectionId": 5,
+      "title": "Operations and project management",
+      "content": [
+        "Operations management is the discipline of how resources are managed to achieve the efficient production/provision of goods and service. Project management is the discliple of managing resources to successfully complete one-off projects. This topic area promotes understanding of operations and project decision and how design, planning, quality and workforce issues interrelate to achieve operations and project objectives. Candidates should develop an understaning of the benefits and limitations of a variety of techniques and analytical frameworks used by operations and project managers. Central to the understanding of how successful operations and project management suppport effective manufacturing and service businesses is a recognition of the importance of innovation in product and service delivery in dynamic and volatile business environments."
+      ]
+    },
+    {
+      "id": 6,
+      "sectionId": 5,
+      "title": "Finance and accounting",
+      "content": [
+        "The topic area introduces candidates to the importance of the management of finance, the keeping of an analyis of accounts, and the assessment of buisness financial management; the value of financial statements and some key accounging techniques used to promote profit, measure performance and exert control in bvuiness organizaitons; the use of financial management information in managerial decision making; the links between financial management and other management activity; the importance of identifying and interpreting management accounting information, recognizing uses and limitations. Central to the role of finance and accounting is an understanding of how information can be used to create and measure value."
+      ]
+    },
+    {
+      "id": 1,
+      "sectionId": 6,
+      "title": "The Family",
+      "content": [
+        "This unit examines the family and how and how processes of social change have affected it"
+      ]
+    },
+    {
+      "id": 2,
+      "sectionId": 6,
+      "title": "Theory and Methods",
+      "content": [
+        "This unit contains two central aims. First, it introduces candidates to key concepts and theories associated with a socilogical understanding of human behaviour. Candidates begin to explore the nature and sociological enquiry and the insights that it provides into the relationships between individuals and social structures. Second, the unit introduces candidates to the basic concepts and issues in research design and evaluation. The aim is to make candidates aware of the way in which sociologists can claim that their findings are truthful and worthwhile. "
+      ]
+    },
+    {
+      "id": 3,
+      "sectionId": 6,
+      "title": "Education",
+      "content": [
+        "In this unit candidates examine an important source of secondary sociolization and study in more detail the issues of inequality, power, control and ideology."
+      ]
+    },
+    {
+      "id": 4,
+      "sectionId": 6,
+      "title": "Global Development",
+      "content": [
+        "In this unit candidates examine processes of global development and consider the nature of social inequility on an international scale. "
+      ]
+    },
+    {
+      "id": 5,
+      "sectionId": 6,
+      "title": "Media",
+      "content": [
+        "In this unit candidates examine how the media are organized, how they represent different issues and social groups, and what effects they have on individuals and societies."
+      ]
+    },
+    {
+      "id": 6,
+      "sectionId": 6,
+      "title": "Religion",
+      "content": [
+        "In this unit candidates develop their understanding of religion in its social context. The aim is to explain different explanations of the role of religion in society and to understand the nature of religious movements and the factor influencing the level of religiosity in particular communities."
       ]
     }
   ]
