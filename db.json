@@ -14,7 +14,7 @@
     },
     {
       "id": 2,
-      "name": "Mathematics",
+      "name": "Information Technology",
       "currId": 1
     },
     {
@@ -82,50 +82,66 @@
     {
       "id": 1,
       "sectionId": 2,
-      "title": "Quadratics",
-      "content": [""]
+      "title": "Data, information, knowledge and processing",
+      "content": [
+        "Compare the use of static information sources with dynamic information sources"
+      ]
     },
     {
       "id": 2,
       "sectionId": 2,
-      "title": "Functions",
-      "content": [""]
+      "title": "Hardware and software",
+      "content": [
+        "Evaluate internal hardware devices (including: central process unit (CPU)"
+      ]
     },
     {
       "id": 3,
       "sectionId": 2,
-      "title": "Coordinate geometry",
-      "content": [""]
+      "title": "Monitoring and control",
+      "content": [
+        "Evaluate the use of control technologies in everyday life (including: hosehold appliances, car park barriers, traffic lights)"
+      ]
     },
     {
       "id": 4,
       "sectionId": 2,
-      "title": "Circular measure",
-      "content": [""]
+      "title": "eSafety and health and safety",
+      "content": [
+        "Describe how personal data can be gathered by unauthorized persons (including: by smishing, vishing, phishing, and pharming), and how this might be prevented."
+      ]
     },
     {
       "id": 5,
       "sectionId": 2,
-      "title": "Trigonometry",
-      "content": [""]
+      "title": "The digital divide",
+      "content": [
+        "Understand that the digital divide refers to the gap between people and regions that have access to aspects of modern technology (including: telephone, television, personal computers and the internet), and those that do not or those that have restricted access."
+      ]
     },
     {
       "id": 6,
       "sectionId": 2,
-      "title": "Series",
-      "content": [""]
+      "title": "Using networks",
+      "content": [
+        "Discuss the advanges and disadvantages of networking computers."
+      ]
     },
     {
       "id": 7,
       "sectionId": 2,
-      "title": "Differentiation",
-      "content": [""]
+      "title": "Expert systems and other types of processing",
+      "content": [
+        "The candidates should be able to describe the components of an expert system and explain how the components of an expert system produce possible solutions."
+      ]
     },
     {
       "id": 8,
       "sectionId": 2,
-      "title": "Integration",
-      "content": [""]
+      "title": "Spreadsheets",
+      "content": [
+        "Create a spreadsheet: explain the purpose of cells, rows, columns, ranges, worksheets and multiple worksheets in a single data file"
+      ]
     },
     {
       "id": 1,

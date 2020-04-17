@@ -3,7 +3,7 @@ import { Link } from "react-router-dom"
 
 export default (props) => {
   return (
-    <div>
+    <div className="intro">
       <h3>The 1PlaceCurriculums online curriculum features: </h3>
       <ul>
         <li>Entire curriculum available on a SINGLE page</li>
